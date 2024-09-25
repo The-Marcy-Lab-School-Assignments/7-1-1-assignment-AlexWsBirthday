@@ -1,4 +1,4 @@
-# 7-1-2 Assignment
+# 7-1-1 Assignment
 
 You are the commander of an intergalatic robot army. You need an app that will allow you to see and orgnize the members of your army. You will practice using React Router to build a multi-page, front-end UI.
 
